@@ -1,0 +1,10 @@
+.HeaderNav {
+    background-color: var(--header_Bg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    a {
+        color: var(--Text);
+      }
+  }
